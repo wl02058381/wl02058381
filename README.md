@@ -51,7 +51,7 @@ I'm come from Taiwan a Full Stack Web Developer and Content Creator on [Youtube]
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+<!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - :email: wl02058381@gmail.com
 
 
@@ -86,7 +86,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=wl02058381&count_private=true&theme=tokyonight&hide=contribs,prs)
+![TheBearER's github stats](https://github-readme-stats.vercel.app/api?username=wl02058381&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
