@@ -1,6 +1,7 @@
 ## Hi I'm TheBearER <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm come from Taiwan a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/wl02058381).
+<!-- I'm come from Taiwan a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/wl02058381). -->
+ I'm a Full Stack Web Developer from Taiwan.
 
 :mailbox: Reach me out!
 
