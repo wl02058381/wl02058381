@@ -8,13 +8,6 @@ I'm come from Taiwan a Full Stack Web Developer and Content Creator on [Youtube]
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, wl02058381, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
