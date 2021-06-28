@@ -16,7 +16,7 @@ I'm come from Taiwan a Full Stack Web Developer and Content Creator on [Youtube]
 
 ### Tutorials
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
 
@@ -41,7 +41,7 @@ I'm come from Taiwan a Full Stack Web Developer and Content Creator on [Youtube]
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
-<br />
+<br /> -->
 
 #### Bizness
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
